@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
       name='indexherbariorum',
-      version='1.0',
+      version='1.0.0',
       author='Joel Ramirez',
       author_email='joel.ramirez001@gmail.com',
       description='Python client library for Index Herbariorum API Web Services',
