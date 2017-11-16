@@ -1,6 +1,12 @@
 index-herbariorum-python-client
 =====================
 
+.. image:: https://img.shields.io/pypi/v/indexherbariorum.svg
+    :target: https://pypi.python.org/pypi/indexherbariorum
+
+.. image:: https://travis-ci.org/jlramirez/index-herbariorum-python-client.svg
+        :target: https://travis-ci.org/jlramirez/index-herbariorum-python-client
+	
 A python client library for the `Index Herbariorum <https://github.com/nybgvh/IH-API/wiki>`_ API.
 
 To contribute code to this project, please submit a pull request to the repo on github:
