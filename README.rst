@@ -1,7 +1,7 @@
 index-herbariorum-python-client
 =====================
 
-A python client library for the `Index Herbariorum <https://github.com/nybgvh/IH-API/wiki>` API.
+A python client library for the `Index Herbariorum https://github.com/nybgvh/IH-API/wiki` API.
 
 To contribute code to this project, please submit a pull request to the repo on github:
 
